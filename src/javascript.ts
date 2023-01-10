@@ -1,4 +1,4 @@
-import {parser} from "@lezer/javascript"
+import {parser} from "@polybase/lezer-parser-javascript"
 import {SyntaxNode} from "@lezer/common"
 import {LRLanguage, LanguageSupport,
         delimitedIndent, flatIndent, continuedIndent, indentNodeProp,

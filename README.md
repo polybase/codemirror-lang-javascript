@@ -1,6 +1,8 @@
 <!-- NOTE: README.md is generated from src/README.md -->
 
-# @codemirror/lang-javascript [![NPM version](https://img.shields.io/npm/v/@codemirror/lang-javascript.svg)](https://www.npmjs.org/package/@codemirror/lang-javascript)
+# @polybase/codemirror-lang-javascript [![NPM version](https://img.shields.io/npm/v/@polybase/codemirror-lang-javascript.svg)](https://www.npmjs.org/package/@polybase/codemirror-lang-javascript)
+
+### Adatped for use with Polybase
 
 [ [**WEBSITE**](https://codemirror.net/6/) | [**ISSUES**](https://github.com/codemirror/dev/issues) | [**FORUM**](https://discuss.codemirror.net/c/next/) | [**CHANGELOG**](https://github.com/codemirror/lang-javascript/blob/main/CHANGELOG.md) ]
 

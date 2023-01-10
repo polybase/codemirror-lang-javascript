@@ -1,7 +1,7 @@
 {
-  "name": "@codemirror/lang-javascript",
+  "name": "@polybase/codemirror-lang-javascript",
   "version": "6.1.2",
-  "description": "JavaScript language support for the CodeMirror code editor",
+  "description": "JavaScript language support for the CodeMirror code editor (with polylang support)",
   "scripts": {
     "test": "cm-runtests",
     "prepare": "cm-buildhelper src/index.ts"
@@ -10,11 +10,6 @@
     "editor",
     "code"
   ],
-  "author": {
-    "name": "Marijn Haverbeke",
-    "email": "marijnh@gmail.com",
-    "url": "http://marijnhaverbeke.nl"
-  },
   "type": "module",
   "main": "dist/index.cjs",
   "exports": {
@@ -32,7 +27,7 @@
     "@codemirror/state": "^6.0.0",
     "@codemirror/view": "^6.0.0",
     "@lezer/common": "^1.0.0",
-    "@lezer/javascript": "^1.0.0"
+    "@polybase/lezer-parser-javascript": "^1.4.1"
   },
   "devDependencies": {
     "@codemirror/buildhelper": "^0.1.5",
@@ -40,6 +35,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/codemirror/lang-javascript.git"
+    "url": "https://github.com/polybase/codemirror-lang-javascript.git"
   }
 }
