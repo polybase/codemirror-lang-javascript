@@ -2,7 +2,11 @@
 
 # @polybase/codemirror-lang-javascript [![NPM version](https://img.shields.io/npm/v/@polybase/codemirror-lang-javascript.svg)](https://www.npmjs.org/package/@polybase/codemirror-lang-javascript)
 
-### Adatped for use with Polybase
+---
+
+### Adapted for use with [Polylang](https://github.com/polybase/polylang)
+
+---
 
 [ [**WEBSITE**](https://codemirror.net/6/) | [**ISSUES**](https://github.com/codemirror/dev/issues) | [**FORUM**](https://discuss.codemirror.net/c/next/) | [**CHANGELOG**](https://github.com/codemirror/lang-javascript/blob/main/CHANGELOG.md) ]
 
